@@ -28,7 +28,7 @@ setup(
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
     ],
-    description="Python Boilerplate contains all the boilerplate you need to create a Python package.",
+    description="Copy tables and their data from one db to another db.",
     entry_points={
         'console_scripts': [
             'sqlalchemy_tables_copier=sqlalchemy_tables_copier.cli:main',
@@ -44,6 +44,6 @@ setup(
     test_suite='tests',
     tests_require=test_requirements,
     url='https://github.com/fanqingsong/sqlalchemy_tables_copier',
-    version='0.1.0',
+    version='0.1.1',
     zip_safe=False,
 )

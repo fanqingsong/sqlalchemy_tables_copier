@@ -1,0 +1,3 @@
+[console_scripts]
+sqlalchemy_tables_copier = sqlalchemy_tables_copier.cli:main
+

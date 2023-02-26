@@ -16,7 +16,7 @@ SQLAlchemy Tables Copier
 
 
 
-Python Boilerplate contains all the boilerplate you need to create a Python package.
+Copy tables and their data from one db to another db.
 
 
 * Free software: MIT license
