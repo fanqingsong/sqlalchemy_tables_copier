@@ -28,6 +28,7 @@ Usages
 
 .. code-block:: python
    :emphasize-lines: 3,5
+   :linenos:
 
     import logging
 
